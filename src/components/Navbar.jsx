@@ -6,7 +6,7 @@ import {FaUserFriends, FaWallet} from 'react-icons/fa'
 import {MdFavorite, MdHelp} from 'react-icons/md'
 
 const Navbar = () => {
-const [nav, setNav] = useState(false)
+const [nav, setNav] = useState(false)  
 
   return (
     <div className='max-w-[1640px] mx-auto flex justify-between items-center p-4'>
